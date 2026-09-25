@@ -4,3 +4,4 @@ sentence-transformers==5.1.0
 pymupdf==1.26.4
 openai==1.108.1
 python-dotenv==1.1.1
+groq==0.31.0
